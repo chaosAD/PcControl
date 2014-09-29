@@ -1,0 +1,7 @@
+build/*
+!build/README.txt
+MPLABX.X/build/*
+MPLABX.X/dist/*
+MPLABX.X/debug/*
+MPLABX.X/*.obj
+MPLABX.X/funclist
